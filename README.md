@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kemalghifari
-- 👀 I'm an aspiring product management
-- 🌱 I’m currently learning Java, SQL, HTML, CSS and JavaScript
+- 🌱 I’m currently learning LLM and AI app development
 - 📫 Reach me on mkemalgr@gmail.com or linkedin.com/in/kemalghifari
 
 <!---
